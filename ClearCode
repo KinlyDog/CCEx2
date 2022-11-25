@@ -33,7 +33,7 @@ func ObjectVolume() {
 }
 
 6.4.
-money - adultMoney
+money - childMoney
 rep - adultReputation
 stamina - adultStaminaLevel
 priceF - purchasePrice
