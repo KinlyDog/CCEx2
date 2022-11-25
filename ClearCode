@@ -1,11 +1,16 @@
-6.1. Разберите свой код, и сделайте пять примеров, где можно более наглядно
-учесть в именах переменных уровни абстракции.
+6.1. 
+ma - unsortedDigitsArray
+count - numberOfWalkers
+cut - cutTreeBranches
+fin - topSallingItems
+difStr - difLenghtTankMap
 
 6.2. 
 peopleList
 matrixArray
 bulletStack
-
+spaceSplit
+bookIndex
 
 6.3.
 class Transport {
