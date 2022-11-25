@@ -1,0 +1,35 @@
+6.1. Разберите свой код, и сделайте пять примеров, где можно более наглядно
+учесть в именах переменных уровни абстракции.
+
+6.2. 
+peopleList
+matrixArray
+bulletStack
+
+
+6.3.
+class Transport {
+    car
+    moto
+    bus
+    bike
+}
+
+class Vegetables {
+    carrot
+    potatos
+    onion
+}
+
+func ObjectVolume() {
+    length
+    width
+    height
+}
+
+6.4.
+money - adultMoney
+rep - adultReputation
+stamina - adultStaminaLevel
+priceF - purchasePrice
+altJump - motoJumpHeight
